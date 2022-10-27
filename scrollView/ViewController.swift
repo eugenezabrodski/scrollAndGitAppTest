@@ -13,6 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("im second but not last")
         print("Something at second")
+        print("i am too fast")
+
     }
 
 
