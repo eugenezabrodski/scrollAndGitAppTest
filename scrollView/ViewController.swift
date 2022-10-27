@@ -14,7 +14,9 @@ class ViewController: UIViewController {
         print("Im last")
         
         print("bug fixed")
-        
+
+        // это то что я хочу стэшить
+        print("New task done")
     }
 }
 
